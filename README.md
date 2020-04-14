@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 More Text for rebasing example
-More Changes.  Doing an emergency fix after stash
+More Changes.  Making changes for multiple stash example
 
 ## Introduction
 
